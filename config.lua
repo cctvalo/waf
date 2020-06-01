@@ -35,10 +35,10 @@ config_output_html=[[
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta http-equiv="Content-Language" content="zh-cn" />
-<title>网站防火墙</title>
+<title>waf</title>
 </head>
 <body>
-<h1 align="center"> 欢迎白帽子进行授权安全测试，安全漏洞请联系QQ：1111111。
+<h1 align="center">请不要对网站进行恶意SQL注入攻击！东华WAF
 </body>
 </html>
 ]]
